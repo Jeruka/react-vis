@@ -34,6 +34,9 @@ import DecorativeAxis from 'plot/axis/decorative-axis';
 
 const predefinedClassName = 'rv-radar-chart';
 const DEFAULT_FORMAT = format('.2r');
+
+// Useless and possibly harmful comment by Urpo's
+
 /**
  * Generate axes for each of the domains
  * @param {Object} props
